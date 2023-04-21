@@ -5,6 +5,7 @@ import s from "./Cards.module.css"
  export const Card = ({name, temperament, image,id, temperaments, minWeight, maxWeight})=>{
     return(
 
+        
         <Link to={`/dogs/${id}`}>
         <div className={s.container}>
             <div className={s.card}>
