@@ -1,0 +1,32 @@
+ .container video{
+    background: linear-gradient(rgba(5,7,12,0.60),rgba(5,7,12,0.60));
+   position: absolute;
+   top:0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+
+ }
+
+ .container button{
+    position: relative;
+    
+    z-index: 2;
+    border: 4px solid rgba(100, 100,100,0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 4px;
+    color: rgb(250, 250, 250);
+    background-color: rgb(238, 160, 15);
+ }
+
+ .container h1{
+    color: rgba(213, 173, 13, 0.773);
+    position: relative;
+    z-index: 2;
+    margin-bottom: 15px;
+    padding: 150px;
+    margin-left: 250PX;
+ }
+ 

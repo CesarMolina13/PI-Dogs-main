@@ -1,0 +1,31 @@
+.button1{
+    float:left;
+    margin: 7px;
+    background-color: hwb(33 4% 8%);
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 5px;
+    
+}
+
+.button1:hover{
+    background: black;
+    color: hwb(33 4% 8%);
+    cursor: pointer;
+}
+
+.button2{
+    float:left;
+    margin: 7px;
+    background-color: hwb(33 4% 8%);
+    border-radius: 10px;
+    font-size: 25px;
+     padding: 5px;
+}
+
+.button2:hover{
+    background: black;
+    color: hwb(33 4% 8%);
+    cursor: pointer;
+}
+

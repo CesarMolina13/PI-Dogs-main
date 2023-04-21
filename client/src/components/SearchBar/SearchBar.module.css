@@ -1,0 +1,18 @@
+.container{
+    float:medium;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 12px;
+    margin: 20px;
+    justify-content:flex-end;
+    padding: 8px;
+
+}
+
+.container button{
+    background-color: bisque;
+    padding: 3px;
+    border-bottom: 3px;
+    border-radius: 2px;
+}
